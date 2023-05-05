@@ -8,7 +8,7 @@ Labels download: https://pan.baidu.com/s/1uJJrXelsQLrWFVa4QEVK_A
 
 Password: dust
 
-Nine labels were considered, including visible dust, face protection, no face protection, head protection, no head protection, spraying car, mulching fabric, particle monitors, and spraying sink.
+Nine labels were considered, including visible dust, face protection, no face protection, head protection, no head protection, spraying car, mulching fabric, particle monitor, and spraying sink.
 
 Some images were selected from publicly available datasets 1,2.
 1. https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset
