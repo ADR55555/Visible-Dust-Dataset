@@ -16,3 +16,5 @@ Some images were selected from publicly available datasets 1,2.
 2. https://github.com/ruoxinx/site-dust-detect
 
 The dataset is for academic research only, please contact the author to remove any infringement.
+
+Cite：Wang, M.P., Yao, G., Yang, Y., Sun, Y.J., Yan, M., Deng, R., 2023b. Deep learning-based object detection for visible dust and prevention measures on construction sites. Developments in the Built Environment 16, 100245. https://doi.org/10.1016/j.dibe.2023.100245
