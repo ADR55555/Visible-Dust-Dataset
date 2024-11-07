@@ -2,10 +2,10 @@
 
 The dataset of 7,500 images showcasing visible dust and relevant prevention measures. 
 
-Images download: https://pan.baidu.com/s/193Tg6ZBLGJf45FVHVPZIxA 
+Images download:  https://pan.baidu.com/s/1si631Hb4TFy1b9iHDQCglQ 
 
 
-Labels download: https://pan.baidu.com/s/1qQG8an8sp-fqJjEN2VPX9g
+Labels download:  https://pan.baidu.com/s/1Rn-yZfuC9t93HDvVflIOkg 
 
 Password: dust
 
